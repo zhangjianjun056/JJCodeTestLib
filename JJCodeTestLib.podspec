@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
                        DESC
 
   # 主页、截图、license证书、作者信息、源代码地址、社交地址
-  s.homepage         = 'https://github.com/zhangjianjun056/JJCodeTestLib.git'
+  s.homepage         = 'https://github.com/zhangjianjun056/JJCodeTestLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhangjianjun056' => 'zhangjianjun056@163.com' }

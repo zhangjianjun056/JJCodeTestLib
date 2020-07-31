@@ -9,7 +9,7 @@
     "file": "LICENSE"
   },
   "authors": {
-    "zhangjianjun056": "jianjun.zhang-ext@ikang.com"
+    "zhangjianjun056": "zhangjianjun056@163.com"
   },
   "source": {
     "git": "https://github.com/zhangjianjun056/JJCodeTestLib.git",
@@ -20,5 +20,10 @@
   },
   "swift_versions": "5.0",
   "source_files": "JJCodeTestLib/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ]
+  },
   "swift_version": "5.0"
 }
